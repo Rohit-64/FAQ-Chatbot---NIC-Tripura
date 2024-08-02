@@ -81,7 +81,7 @@
                         <p>I would like to extend my gratitude to NIC Tripura for providing me with this incredible opportunity. Special thanks to my mentors and team members for their support and encouragement throughout the project.</p> </div>
 
 <div style="text-align: center; margin-top: 40px; font-size: 0.9em;">
-                        <p>For any queries or further information, feel free to reach out to me at <a href="mailto:your-email@example.com">your-email@example.com</a>.</p>
+                        <p>For any queries or further information, feel free to reach out to me at <a href="mailto:das201706@gmail.com">Email</a></p>
                     </div>
                 </div>
             </div>
