@@ -9,7 +9,7 @@
         <foreignObject width="100%" height="100%">
             <div xmlns="http://www.w3.org/1999/xhtml" style="font-family: Arial, sans-serif; line-height: 1.6; margin: 0; padding: 0; background-color: #f4f4f4; color: #333;">
                 <div style="max-width: 800px; margin: 20px auto; padding: 20px; background: #fff; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
-                    <img src="path_to_logo_image" alt="NIC Tripura Logo" style="display: block; margin: 0 auto 20px; max-width: 150px;">
+                    <img src="assets/nic_tripura.png" alt="NIC Tripura Logo" style="display: block; margin: 0 auto 20px; max-width: 150px;">
 
  <h1 style="color: #0056b3;">FAQ Chatbot Project at NIC Tripura</h1>
 
